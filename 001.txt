@@ -1,3 +1,8 @@
 Shiga
 hikone
+<<<<<<< HEAD
 Kansai
+=======
+Kansai
+aaa
+>>>>>>> main
